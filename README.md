@@ -2,3 +2,7 @@
 # WebApps-F23-Assignment-6
 Introduction to Java Script and DOM
 
+Hosted at:
+- [Author Page](/author.html)
+- [Tips Page](</tips.html)
+- [Cruise Page](/cruise.html)
